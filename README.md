@@ -1,7 +1,6 @@
 # LearnDash Email Confirmation Plugin
 
 **Plugin Name:** LearnDash Email Confirmation  
-**Plugin URI:** [https://luispique.com/learndash-email-confirmation](https://luispique.com/learndash-email-confirmation)  
 **Description:** Adds an email confirmation step to the LearnDash registration process, requiring users to confirm their email address before accessing content.  
 **Version:** 1.0.1  
 **Author:** Luis Pique  
